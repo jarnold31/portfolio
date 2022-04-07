@@ -1803,6 +1803,10 @@ input, select, textarea {
 		margin-right:auto;
 	}
 
+	ul.projectlist{
+		margin-left: 40px;
+	}
+
 /* Form */
 
 	form {
@@ -2166,6 +2170,25 @@ input, select, textarea {
 
 		#xoclinical{
 			width: 100%;
+		}
+
+		#strengths1{
+			position:relative;
+			float:left;
+			width:20%;
+		}
+
+		#strengths2{
+			position:relative;
+			float:left;
+			width:100%;
+			margin-bottom: 30px;
+		}
+
+		#motivators{
+			position:relative;
+			float:right;
+			width:17%;
 		}
 		
 
