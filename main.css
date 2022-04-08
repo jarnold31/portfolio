@@ -2160,15 +2160,15 @@ input, select, textarea {
 			}
 		.project{
 			width: 40%;
-			padding: 10px 10px 10px 0;
+			padding: 10px;
 		}
 
-		#xodevices{
+		#leftstd{
 			position:relative;
 			float:left;
 		}
 
-		#xoclinical{
+		#full{
 			width: 100%;
 		}
 
@@ -2190,6 +2190,12 @@ input, select, textarea {
 			float:right;
 			width:17%;
 		}
+
+		#rightstd{
+			position:relative;
+			float:right;
+		}
+
 		
 
 /* List */
